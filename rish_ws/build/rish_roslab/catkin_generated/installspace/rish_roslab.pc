@@ -1,0 +1,8 @@
+prefix=/home/rishwanth/rish_ws/install
+
+Name: rish_roslab
+Description: Description of rish_roslab
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

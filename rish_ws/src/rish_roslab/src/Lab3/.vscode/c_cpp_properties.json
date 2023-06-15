@@ -1,0 +1,53 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/opt/ros/noetic/include/**",
+        "/home/rishwanth/catkin_ws/devel/include/**",
+        "/home/rishwanth/catkin_ws/src/navigation/amcl/include/**",
+        "/home/rishwanth/catkin_ws/src/aruco_ros/aruco/include/**",
+        "/home/rishwanth/catkin_ws/src/aruco_ros/aruco_ros/include/**",
+        "/home/rishwanth/catkin_ws/src/navigation/base_local_planner/include/**",
+        "/home/rishwanth/catkin_ws/src/navigation/carrot_planner/include/**",
+        "/home/rishwanth/catkin_ws/src/navigation/clear_costmap_recovery/include/**",
+        "/home/rishwanth/catkin_ws/src/navigation/costmap_2d/include/**",
+        "/home/rishwanth/catkin_ws/src/navigation/dwa_local_planner/include/**",
+        "/home/rishwanth/catkin_ws/src/fiducials/fiducial_slam/include/**",
+        "/home/rishwanth/catkin_ws/src/gazebo_ros_link_attacher/include/**",
+        "/home/rishwanth/catkin_ws/src/navigation/global_planner/include/**",
+        "/home/rishwanth/catkin_ws/src/navigation/map_server/include/**",
+        "/home/rishwanth/catkin_ws/src/navigation/move_base/include/**",
+        "/home/rishwanth/catkin_ws/src/navigation/move_slow_and_clear/include/**",
+        "/home/rishwanth/catkin_ws/src/navigation/nav_core/include/**",
+        "/home/rishwanth/catkin_ws/src/navigation/navfn/include/**",
+        "/home/rishwanth/rish_ws/src/rish_roslab/include/**",
+        "/home/rishwanth/catkin_ws/src/robotiq_85_gripper-master/robotiq_85_simulation/roboticsgroup_gazebo_plugins/include/**",
+        "/home/rishwanth/catkin_ws/src/navigation/rotate_recovery/include/**",
+        "/home/rishwanth/catkin_ws/src/fiducials/stag_detect/include/**",
+        "/home/rishwanth/catkin_ws/src/geometry2/tf2/include/**",
+        "/home/rishwanth/catkin_ws/src/geometry2/tf2_bullet/include/**",
+        "/home/rishwanth/catkin_ws/src/geometry2/tf2_eigen/include/**",
+        "/home/rishwanth/catkin_ws/src/geometry2/tf2_geometry_msgs/include/**",
+        "/home/rishwanth/catkin_ws/src/geometry2/tf2_kdl/include/**",
+        "/home/rishwanth/catkin_ws/src/geometry2/tf2_msgs/include/**",
+        "/home/rishwanth/catkin_ws/src/geometry2/tf2_ros/include/**",
+        "/home/rishwanth/catkin_ws/src/geometry2/tf2_sensor_msgs/include/**",
+        "/home/rishwanth/catkin_ws/src/turtlebot3_simulations/turtlebot3_fake/include/**",
+        "/home/rishwanth/catkin_ws/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+        "/home/rishwanth/catkin_ws/src/turtlebot3/turtlebot3_slam/include/**",
+        "/home/rishwanth/catkin_ws/src/navigation/voxel_grid/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

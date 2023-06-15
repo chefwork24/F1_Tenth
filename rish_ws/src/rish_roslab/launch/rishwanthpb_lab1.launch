@@ -1,0 +1,4 @@
+<launch>
+   <node pkg="rish_roslab" type="laser_processing.py" name="laser_processing" output="screen"/>
+   <node pkg="rviz" type="rviz" name="rviz" args="-d $(find rish_roslab)/src/sim.rviz"/>
+</launch>
